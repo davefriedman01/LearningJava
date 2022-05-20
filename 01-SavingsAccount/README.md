@@ -1,7 +1,31 @@
 ```
-java SavingsAccount
+tree
+```
+```
+.
+└── SavingsAccount.java
+
+0 directories, 1 file
 ```
 
+```
+javac SavingsAccount.java
+```
+
+```
+tree
+```
+```
+.
+├── SavingsAccount.class
+└── SavingsAccount.java
+
+0 directories, 2 files
+```
+
+```
+java SavingsAccount
+```
 ```
 Savings Account Balances
 Month	Saver1 	Saver2

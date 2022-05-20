@@ -1,4 +1,3 @@
-
 public class SavingsAccount {
   private static double annualInterestRate;
   private double savingsBalance;
